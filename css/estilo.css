@@ -28,6 +28,7 @@ body{
     text-align: center;
     border: 1px solid #ddd;
     margin: 0 auto;
+
 }
 
 #post{
@@ -37,4 +38,12 @@ body{
 
 #post h1{
     font-size: 20px;
+}
+
+#footer{
+    margin-top: 40px;
+    border: 1px solid blue;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 8px;
 }
